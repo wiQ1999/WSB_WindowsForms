@@ -1,0 +1,11 @@
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.AssemblyReference.cache
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.SuggestedBindingRedirects.cache
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+D:\WSB\Semestr7\Programowanie Windows Forms\Ćwiczenie02\Notatnik\Notatnik\obj\Debug\Notatnik.Notatnik.resources
